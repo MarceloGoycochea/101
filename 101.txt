@@ -32,7 +32,7 @@
       "RockContent": "בננה",
       "PicOnRock": true,
       "PicOnBrick": false,
-      "BrickContent": "9vXH8TV/intro-1673458653.webp",
+      "BrickContent": "QDkYrpX/Banana-Single.jpg",
       "PicSprite": {
         "instanceID": 0
       }
