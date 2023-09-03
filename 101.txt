@@ -25,17 +25,6 @@
       "PicSprite": {
         "instanceID": 0
       }
-    },
-    {
-      "ID": 3,
-      "GameID": 1,
-      "RockContent": "בננה",
-      "PicOnRock": true,
-      "PicOnBrick": true,
-      "BrickContent": "QDkYrpX/Banana-Single.jpg",
-      "PicSprite": {
-        "instanceID": 0
-      }
     }
   ]
 }
