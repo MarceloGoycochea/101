@@ -1,1 +1,1 @@
-{"ID":1,"GameName":"Test","GameCode":101,"GameTime":15,"Questions":[{"ID":1,"GameID":1,"RockContent":"גולדה מאיר","PicOnRock":true,"PicOnBrick":false,"BrickContent":"Golda-Meir-03265u.jpg","PicSprite":{"instanceID":0}}]}
+{"ID":1,"GameName":"Test","GameCode":101,"GameTime":15,"Questions":[{"ID":1,"GameID":1,"RockContent":"גולדה מאיר","PicOnRock":true,"PicOnBrick":false,"BrickContent":"yh4NVv2/Golda-Meir-03265u.jpg","PicSprite":{"instanceID":0}}]}
