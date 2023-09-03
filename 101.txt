@@ -31,7 +31,7 @@
       "GameID": 1,
       "RockContent": "בננה",
       "PicOnRock": true,
-      "PicOnBrick": false,
+      "PicOnBrick": true,
       "BrickContent": "QDkYrpX/Banana-Single.jpg",
       "PicSprite": {
         "instanceID": 0
