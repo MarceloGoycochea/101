@@ -1,19 +1,41 @@
 {
   "ID": 2,
-  "GameName": "Test",
+  "GameName": "פירות",
   "GameCode": 102,
-  "GameTime": 20,
+  "GameTime": 10,
   "Questions": [
     {
       "ID": 1,
       "GameID": 2,
-      "RockContent": "יצחק רבין",
-      "PicOnRock": false,
+      "RockContent": "בננה",
+      "PicOnRock": true,
       "PicOnBrick": true,
-      "BrickContent": "89v4MtG/290x350-Rabin.jpg",
+      "BrickContent": "QDkYrpX/Banana-Single.jpg",
       "PicSprite": {
         "instanceID": 0
       }
-    }
+    },
+    {
+      "ID": 2,
+      "GameID": 2,
+      "RockContent": "תפוח עץ",
+      "PicOnRock": true,
+      "PicOnBrick": true,
+      "BrickContent": "0CvFtfM/6368e01a4daa810010.jpg",
+      "PicSprite": {
+        "instanceID": 0
+      }
+    },
+    {
+      "ID": 3,
+      "GameID": 2,
+      "RockContent": "תפוז",
+      "PicOnRock": true,
+      "PicOnBrick": true,
+      "BrickContent": "DVtp7T1/Meshek-1218-e1559140193920-600x600.jpg",
+      "PicSprite": {
+        "instanceID": 0
+      }
+    } 
   ]
 }
