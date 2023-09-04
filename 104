@@ -18,10 +18,10 @@
     {
       "ID": 2,
       "GameID": 4,
-      "RockContent": "QDkYrpX/Banana-Single.jpg",
+      "RockContent": "V3Y5h3G/GAudit-Yellow-Dot.png",
       "PicOnRock": true,
       "PicOnBrick": true,
-      "BrickContent": "V3Y5h3G/GAudit-Yellow-Dot.png",
+      "BrickContent": "QDkYrpX/Banana-Single.jpg",
       "PicSprite": {
         "instanceID": 0
       }
