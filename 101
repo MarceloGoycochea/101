@@ -9,7 +9,7 @@
       "GameID": 1,
       "RockContent": "גולדה מאיר",
       "PicOnRock": false,
-      "PicOnBrick": false,
+      "PicOnBrick": true,
       "BrickContent": "yh4NVv2/Golda-Meir-03265u.jpg",
       "PicSprite": {
         "instanceID": 0
@@ -19,7 +19,7 @@
       "ID": 2,
       "GameID": 1,
       "RockContent": "89v4MtG/290x350-Rabin.jpg",
-      "PicOnRock": false,
+      "PicOnRock": true,
       "PicOnBrick": false,
       "BrickContent": "יצחק רבין",
       "PicSprite": {
