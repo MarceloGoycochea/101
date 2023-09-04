@@ -1,0 +1,30 @@
+{
+  "ID": 4,
+  "GameName": "התאמת צבעים לתמונות",
+  "GameCode": 104,
+  "GameTime": 15,
+  "Questions": [
+    {
+      "ID": 1,
+      "GameID": 4,
+      "RockContent": "txHrTqk/Basic-green-dot.png",
+      "PicOnRock": true,
+      "PicOnBrick": true,
+      "BrickContent": "0CvFtfM/6368e01a4daa810010.jpg",
+      "PicSprite": {
+        "instanceID": 0
+      }
+    },
+    {
+      "ID": 2,
+      "GameID": 4,
+      "RockContent": "QDkYrpX/Banana-Single.jpg",
+      "PicOnRock": true,
+      "PicOnBrick": true,
+      "BrickContent": "V3Y5h3G/GAudit-Yellow-Dot.png",
+      "PicSprite": {
+        "instanceID": 0
+      }
+    }
+  ]
+}
