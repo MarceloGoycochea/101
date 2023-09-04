@@ -7,10 +7,10 @@
     {
       "ID": 1,
       "GameID": 3,
-      "RockContent": "בננה",
+      "RockContent": "Banana",
       "PicOnRock": false,
       "PicOnBrick": false,
-      "BrickContent": "Banana",
+      "BrickContent": "בננה",
       "PicSprite": {
         "instanceID": 0
       }
@@ -29,10 +29,10 @@
     {
       "ID": 3,
       "GameID": 3,
-      "RockContent": "תפוז",
+      "RockContent": "Orange",
       "PicOnRock": false,
       "PicOnBrick": false,
-      "BrickContent": "Orange",
+      "BrickContent": "תפוז",
       "PicSprite": {
         "instanceID": 0
       }
