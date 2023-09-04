@@ -8,7 +8,7 @@
       "ID": 1,
       "GameID": 2,
       "RockContent": "בננה",
-      "PicOnRock": true,
+      "PicOnRock": false,
       "PicOnBrick": true,
       "BrickContent": "QDkYrpX/Banana-Single.jpg",
       "PicSprite": {
@@ -18,10 +18,10 @@
     {
       "ID": 2,
       "GameID": 2,
-      "RockContent": "תפוח עץ",
+      "RockContent": "0CvFtfM/6368e01a4daa810010.jpg",
       "PicOnRock": true,
-      "PicOnBrick": true,
-      "BrickContent": "0CvFtfM/6368e01a4daa810010.jpg",
+      "PicOnBrick": false,
+      "BrickContent": "תפוח עץ",
       "PicSprite": {
         "instanceID": 0
       }
@@ -30,7 +30,7 @@
       "ID": 3,
       "GameID": 2,
       "RockContent": "תפוז",
-      "PicOnRock": true,
+      "PicOnRock": false,
       "PicOnBrick": true,
       "BrickContent": "DVtp7T1/Meshek-1218-e1559140193920-600x600.jpg",
       "PicSprite": {
